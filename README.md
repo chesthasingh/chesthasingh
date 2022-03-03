@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Chestha Singh-red)](https://www.youtube.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-Chestha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Chestha-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Chestha-yellow)](https://stackoverflow.com/users/3687251/aakash-)
